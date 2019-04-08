@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../include/imrdata.h
+
+../../include/imrsdk.h
+imrdata.h
+../../include/imrdata.h
+
+/home/liuhongwei/SDK-Linux/demo/Indem.cpp
+mutex
+-
+queue
+-
+thread
+-
+iomanip
+-
+string
+-
+unistd.h
+-
+iostream
+-
+cmath
+-
+imrsdk.h
+/home/liuhongwei/SDK-Linux/demo/imrsdk.h
+opencv2/viz.hpp
+-
+opencv2/highgui.hpp
+-
+

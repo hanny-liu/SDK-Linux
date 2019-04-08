@@ -1,0 +1,3 @@
+/home/liuhongwei/SDK-Linux/demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liuhongwei/SDK-Linux/demo/cmake-build-debug/CMakeFiles/TestIndem.dir
+/home/liuhongwei/SDK-Linux/demo/cmake-build-debug/CMakeFiles/edit_cache.dir
